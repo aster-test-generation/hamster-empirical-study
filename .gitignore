@@ -61,7 +61,8 @@ resources/*
 
 # Scratchpad
 tests/scratchpad
-tests/resources
+tests/resources/*
+!tests/resources/spring-petclinic/
 
 # Python compiled files and env
 __pycache__/
